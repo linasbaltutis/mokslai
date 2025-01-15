@@ -1,0 +1,12 @@
+
+.block {
+    width: 200px;
+    height: 200px;
+    background: blue;
+}
+
+.row div {
+    background: lightblue;
+    height: auto;
+    border: 3px solid white;
+}
